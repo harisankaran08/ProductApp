@@ -7,7 +7,7 @@ namespace ProductApp
 {
     public class ProductService
     {
-        private static string db_connectionstring = "server=appserver6008089.database.windows.net;user=sqladmin;password=Azure@123;database=appdb";
+        private static string db_connectionstring = "dbserver017tf.database.windows.net;user=sqladmin;password=Pokemon'Go@lVl01;database=dbserver017tf";
 
         private SqlConnection GetConnection()
         {
